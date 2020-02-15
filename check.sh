@@ -1,3 +1,4 @@
+#! /usr/bin/env bash
 echo ""
 echo "Running Diff"
 echo "--------"
@@ -17,4 +18,3 @@ do
     fi
 done
 echo "--------"
-<
